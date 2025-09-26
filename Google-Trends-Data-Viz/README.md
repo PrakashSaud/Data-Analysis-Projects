@@ -64,11 +64,6 @@ To run this project, you will need Python installed along with the libraries lis
 *   `README.md`: This file.
 *   `requirements.txt`: List of project dependencies.
 
-## License
-
-[Specify your license here, e.g., MIT License]
-
 ## Acknowledgements
 
 *   Google Trends for providing public search interest data.
-*   [Any other data sources or inspirations]
