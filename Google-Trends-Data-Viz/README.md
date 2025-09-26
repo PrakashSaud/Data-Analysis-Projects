@@ -50,22 +50,7 @@ This project underscores the immense value of data storytelling—transforming r
 
 To run this project, you will need Python installed along with the libraries listed in `requirements.txt`.
 
-### Installation
 
-1.  Clone this repository:
-    ```bash
-    git clone https://github.com/your-username/your-repo-name.git
-    cd your-repo-name
-    ```
-2.  Create a virtual environment (recommended):
-    ```bash
-    python -m venv venv
-    source venv/bin/activate  # On Windows use `venv\Scripts\activate`
-    ```
-3.  Install the required dependencies:
-    ```bash
-    pip install -r requirements.txt
-    ```
 
 ### Usage
 
